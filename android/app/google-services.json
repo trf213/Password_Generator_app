@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "644059740156",
+    "firebase_url": "https://password-generator-b3e5d.firebaseio.com",
+    "project_id": "password-generator-b3e5d",
+    "storage_bucket": "password-generator-b3e5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644059740156:android:0d00a1ea09cf625a6d2479",
+        "android_client_info": {
+          "package_name": "com.trf.password_gen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644059740156-iqhqbq7utii4g8rvfqirbsjmr4gjpaq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwcfb_U3vCxhyiiEnJYlstRyTK6x_YSr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644059740156-iqhqbq7utii4g8rvfqirbsjmr4gjpaq2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
